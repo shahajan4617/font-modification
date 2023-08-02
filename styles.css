@@ -1,9 +1,13 @@
 #hh1 {
-  border: 5px red solid;
+  border: 10px solid blue;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-width: 0px;
   font-family: 'Handjet', cursive;
 }
 #pr1 {
   font-size: 20px;
   border: 3px black solid;
+  border-bottom-width: 0px;
   font-family: 'Bungee Spice', cursive;
 }
